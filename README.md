@@ -6,9 +6,9 @@ Me chamo João Vitor, tenho 19 anos.
 Atualmente estou estudando, **HTML - CSS - JS**
 
 Conheça alguns dos meus projetos:
-[Volpi Tattoo](https://lightclyde.github.io/Volpi-Tattoo-Project/) / 
-[Projeto Soften 1](https://lightclyde.github.io/ProjetoSoften_1/) / 
-[Projeto Soften 2](https://lightclyde.github.io/ProjetoSoftenFront_2/)
+[Volpi Tattoo](https://joaovitor-web-developer.github.io/Volpi-Tattoo/) / 
+[Projeto Soften 1](https://joaovitor-web-developer.github.io/ProjetoSoftenFront_1/) / 
+[Projeto Soften 2](https://joaovitor-web-developer.github.io/ProjetoSoftenFront_2/)
 
 Skills: **HTML / CSS / JS**
 
