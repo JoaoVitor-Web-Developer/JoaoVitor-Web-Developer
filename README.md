@@ -8,7 +8,8 @@ Atualmente estou estudando, **HTML - CSS - JS**
 Conheça alguns dos meus projetos:
 [Volpi Tattoo](https://joaovitor-web-developer.github.io/Volpi-Tattoo/) / 
 [Projeto Soften 1](https://joaovitor-web-developer.github.io/ProjetoSoftenFront_1/) / 
-[Projeto Soften 2](https://joaovitor-web-developer.github.io/ProjetoSoftenFront_2/)
+[Projeto Soften 2](https://joaovitor-web-developer.github.io/ProjetoSoftenFront_2/) /
+[Projeto Lista de tarefas](https://joaovitor-web-developer.github.io/Lista-de-tarefas/)
 
 Skills: **HTML / CSS / JS**
 
