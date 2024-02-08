@@ -11,7 +11,7 @@ Conheça alguns dos meus projetos:
 [Projeto Soften 2](https://joaovitor-web-developer.github.io/ProjetoSoftenFront_2/) /
 [Projeto Lista de tarefas](https://joaovitor-web-developer.github.io/Lista-de-tarefas/)
 
-Skills: **HTML / CSS / JS  / JAVA / MYSQL / NODE.JS / TAILWINDCSS / REACT / REACT NATIVE **
+Skills: **HTML / CSS / JS / MYSQL / NODE.JS / TAILWINDCSS / REACT / REACT NATIVE **
 
 
 
